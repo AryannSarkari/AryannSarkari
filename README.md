@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AryannSarkari
+- 👋 Hi, I’m @AryannSarkari. This is where all of my new projects will be available. I will be updating this soon.
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning web deployment of machine learning models 
 - 💞️ I’m looking to collaborate on machine learning projects
